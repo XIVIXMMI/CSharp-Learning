@@ -1,4 +1,22 @@
-﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{A1C75CAC-F20B-4147-8F91-0052AFEC1067}|Default">
-  <MonoDevelop.Ide.ItemProperties.CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <DisabledProjects>
+    <String>CSharp/CSharp.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharp" expanded="True">
+            <Node name="CSharp" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
